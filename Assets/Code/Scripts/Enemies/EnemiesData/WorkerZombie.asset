@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469e5fb6e88537443a5c24db29fc42e6, type: 3}
+  m_Name: WorkerZombie
+  m_EditorClassIdentifier: 
+  enemyName: WorkerZombie
+  icon: {fileID: 21300000, guid: d7837d4cd036f9f418dcbcaf6cdcb6b1, type: 3}
+  enemyPrefab: {fileID: 2114227752158096099, guid: 1c3011473b04de345b61ba62a143f9a7, type: 3}
+  health: 750
+  speed: 1
+  damage: 10
+  attackRate: 0.5
+  xp:
+  - {fileID: 8287097694714203929, guid: e80306d1d2340b04087a41d1bba381a5, type: 3}
+  - {fileID: 8287097694714203929, guid: e80306d1d2340b04087a41d1bba381a5, type: 3}
+  - {fileID: 8287097694714203929, guid: e80306d1d2340b04087a41d1bba381a5, type: 3}
